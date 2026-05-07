@@ -5,10 +5,10 @@
 - Variables
 - Data Types
 - Numbers
+- Casting
 - Input & Output
 - Strings
 - Booleans
-- Casting
 - Operators
 - Conditional Statements
 - Loops
