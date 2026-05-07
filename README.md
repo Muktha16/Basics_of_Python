@@ -6,8 +6,8 @@
 - Data Types
 - Numbers
 - Casting
-- Input & Output
 - Strings
+- Input & Output
 - Booleans
 - Operators
 - Conditional Statements
